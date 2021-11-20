@@ -1,5 +1,5 @@
-### 😄 Today I Learned in Notion
-  * [TIL🤔](https://petite-title-664.notion.site/b62a97ca26ff49d4bade5febcb2cd7ac?v=18935fc8c4594f38bfd83c87c92e0e8d)
+### 😄 Notion
+  * [🤔 Today I Learned](https://petite-title-664.notion.site/b62a97ca26ff49d4bade5febcb2cd7ac?v=18935fc8c4594f38bfd83c87c92e0e8d)
 
 <!--
 **soo941226/soo941226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
