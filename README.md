@@ -11,7 +11,10 @@
 ### 📝 Notion
   * [🤔 Today I Learned](https://soo941226.notion.site/b62a97ca26ff49d4bade5febcb2cd7ac?v=18935fc8c4594f38bfd83c87c92e0e8d)
 
-
+### 👊 현재 하고 있는 것
+  * [1. 알고리즘 스터디](https://github.com/ictechgy/AlgorithmStudy)
+  * [2. 선형대수 스터디](https://github.com/Ldoy/Math)
+  * [3. 애니메이셔 관련 오픈소 만들어보기](https://github.com/soo941226/VEM)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo941226&show_icons=true&theme=nord)
 
