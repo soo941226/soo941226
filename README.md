@@ -14,7 +14,7 @@
 ### 👊 현재 하고 있는 것
   * [1. 알고리즘 스터디](https://github.com/ictechgy/AlgorithmStudy)
   * [2. 선형대수 스터디](https://github.com/Ldoy/Math)
-  * [3. 애니메이셔 관련 오픈소 만들어보기](https://github.com/soo941226/VEM)
+  * [3. 애니메이셔 관련 오픈소스 만들어보기](https://github.com/soo941226/VEM)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo941226&show_icons=true&theme=nord)
 
