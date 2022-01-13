@@ -13,11 +13,11 @@
 
 ### 👊 현재 하고 있는 것
   * [1. 애니메이셔 관련 오픈소스 만들어보기](https://github.com/soo941226/VEM)
-    * 당장 할 게 있어서 1월 말까지 중단(지금 하는 거 보기 싫을 때 그래도 계속 건드리 거 같다)
+    * __당장 할 게 있어서 1월 말까지 중단...__
   * [2. 알고리즘 스터디](https://github.com/ictechgy/AlgorithmStudy)
-    * 스터디원 일정 때문에 잠정적 중단
+    * 스터디원 일정 때문에 잠정적 중단...
   * [3. 선형대수 스터디](https://github.com/Ldoy/Math)
-    * 스터디원 일정 때문에 잠정적 중단
+    * 스터디원 일정 때문에 잠정적 중단...
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo941226&show_icons=true&theme=nord)
