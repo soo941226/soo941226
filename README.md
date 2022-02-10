@@ -14,7 +14,6 @@
 ### 👊 현재 하고 있는 것
   * [1. 애니메이셔 관련 오픈소스 만들어보기](https://github.com/soo941226/VEM)
   * [2. 알고리즘 스터디](https://github.com/ictechgy/AlgorithmStudy)
-    * 스터디원 일정 때문에 잠정적 중단...
   * [3. 선형대수 스터디](https://github.com/Ldoy/Math)
     * 스터디원 일정 때문에 잠정적 중단...
 
