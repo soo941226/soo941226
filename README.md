@@ -1,24 +1,27 @@
-안녕하세요😄
+Hi👋
 
-오늘의 내가 어제의 나보다 더 나은 사람이 되고자 노력하는 사람입니다. 그래서 하루에 하나는 더 알 수 있도록 노력하는 편입니다.
-코드를 아주 사랑하고 iOS와 Swift에 흠뻑 빠져있습니다. 많은 것을 알지는 못하지만 아는 것에 대해서는 아주 잘 알고자 노력하고 있습니다.
+I'm an iOS developer, especially engineer! I like talking about ways how to improvement the U.X. and codes.
 
-궁금하신 게 있다면 메일 주시면 감사하겠습니다~
+I always imagine myself that I would be a better person than yesterday's me. So I'm trying to know one each day.
+(But, you know... It is hard to do. So, like many ordinary people, sometimes I have a time to refresh watching comic or hearing rock)
 
-📮 Mail: pado941226@knou.ac.kr
+I love code, especially Swift. It helps me to communicate with people and world!😄
 
+Now I'm starting to like test. So I'm trying to write codes to testable.
 
-### 📝 Notion
-  * [🤔 Today I Learned](https://soo941226.notion.site/b62a97ca26ff49d4bade5febcb2cd7ac?v=18935fc8c4594f38bfd83c87c92e0e8d)
+If I had to know something, I studied really really very hard and put a lot of efforts🔥, until I could teach someone.
 
-### 👊 현재 하고 있는 것
-  * [1. 사이드프로젝트: CatchLunch](https://github.com/soo941226/CatchLunch)
-  * [2. 알고리즘 스터디](https://github.com/ictechgy/AlgorithmStudy)
-    * 스터디원들 일정 때문에 3월 둘째주까지 중단..
-  * [3. 선형대수 스터디](https://github.com/Ldoy/Math)
-    * 스터디원 일정 때문에 잠정적 중단...
-  * [4. 애니메이셔 관련 오픈소스 만들어보기](https://github.com/soo941226/VEM)
-    * 사이드프로젝트를 우선하기로 함
+I'm not good at English. so if you find some wrong words or awkward sentences, please point it out😄
+
+📮 pado941226@knou.ac.kr
+
+[🤔 Today I Learned](https://soo941226.notion.site/b62a97ca26ff49d4bade5febcb2cd7ac?v=18935fc8c4594f38bfd83c87c92e0e8d)
+
+### 👊 What I am doing
+  * [1. CatchLunch](https://github.com/soo941226/CatchLunch)
+  * [2. Algorithm study](https://github.com/ictechgy/AlgorithmStudy)
+  * [3. Linear-algebra study](https://github.com/Ldoy/Math)
+  * [4. open source about 2d Animation](https://github.com/soo941226/VEM)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo941226&show_icons=true&theme=nord)
