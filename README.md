@@ -1,13 +1,13 @@
 Hi👋
 
-I'm an iOS developer, especially engineer! I like talking about ways how to improvement the U.X. and codes.
+I'm an iOS developer, especially an engineer! I like talking about ways how to improvement the U.X. and codes.
 
 I always imagine myself that I would be a better person than yesterday's me. So I'm trying to know one each day.
-(But, you know... It is hard to do. So, like many ordinary people, sometimes I have a time to refresh watching comic or hearing rock)
+(But, as you know... It is hard to do)
 
-I love code, especially Swift. It helps me to communicate with people and world!😄
+I love code, especially Swift. It helps me to communicate with people and world!😄 I also like having time to watch comic or hear rock
 
-Now I'm interested in test. So I'm trying to write codes to testable.
+Now I'm interested in test☑︎. So I'm trying to write codes to testable.
 
 If I had to know something, I studied super hard and put a lot of efforts🔥, until I could teach someone.
 
