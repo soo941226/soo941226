@@ -7,7 +7,7 @@ I always imagine myself that I would be a better person than yesterday's me. So 
 
 I love code, especially Swift. It helps me to communicate with people and world!😄
 
-Now I'm starting to like test. So I'm trying to write codes to testable.
+Now I'm interested in test. So I'm trying to write codes to testable.
 
 If I had to know something, I studied super hard and put a lot of efforts🔥, until I could teach someone.
 
