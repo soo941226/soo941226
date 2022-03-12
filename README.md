@@ -29,12 +29,11 @@ I'm not good at English. so if you find some wrong words or awkward sentences, p
 
 
 ### 👇 What I've done
-
+ 
  |Theme|Link|
  |:---:|:---|
- |code review|[list](https://github.com/pulls?q=is%3Apr+assignee%3Asoo941226+archived%3Afalse+is%3Aclosed)|
- |Toy projects| * [ios-juice-maker](https://github.com/soo941226/ios-juice-maker) <br> * [ios-calculator-app](https://github.com/soo941226/ios-calculator-app) <br> * [ios-exposition-universelle](https://github.com/soo941226/ios-exposition-universelle) <br> * [ios-bank-manager](https://github.com/soo941226/ios-bank-manager) <br> * [ios-open-market](https://github.com/soo941226/ios-open-market) <br> * [ios-cloud-notes](https://github.com/soo941226/ios-cloud-notes) <br> * [ios-weather-forecast](https://github.com/soo941226/ios-weather-forecast) <br> * [ios-project-manager](https://github.com/soo941226/ios-project-manager)|
- 
+| Toy projects | * [ios-project-manager](https://github.com/soo941226/ios-project-manager) <br>* [ios-cloud-notes](https://github.com/soo941226/ios-cloud-notes) <br/>* [ios-open-market](https://github.com/soo941226/ios-open-market) <br/>* [ios-weather-forecast](https://github.com/soo941226/ios-weather-forecast) <br/>* [ios-bank-manager](https://github.com/soo941226/ios-bank-manager) <br/> * [ios-exposition-universelle](https://github.com/soo941226/ios-exposition-universelle) <br/> * [ios-calculator-app](https://github.com/soo941226/ios-calculator-app) <br/> * [ios-juice-maker](https://github.com/soo941226/ios-juice-maker) <br/> |
+
 
 <br>
 <br>
