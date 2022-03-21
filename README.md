@@ -1,3 +1,6 @@
+![??](https://user-images.githubusercontent.com/83933153/159289427-6a8ed1f9-87d2-4e91-8cac-d05baaf307fa.gif)
+
+
 Hi👋
 
 I'm an iOS developer!  I love code, especially Swift. It helps me to communicate with people and world!😄 I also like having time to watch comic or hear rock
