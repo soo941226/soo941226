@@ -36,7 +36,7 @@ I'm not good at English. so if you find some wrong words or awkward sentences, p
  |Theme|Link|
  |:---:|:---|
 | Toy projects |- [ios-project-manager](https://github.com/soo941226/ios-project-manager) <br>- [ios-cloud-notes](https://github.com/soo941226/ios-cloud-notes) <br/>- [ios-open-market](https://github.com/soo941226/ios-open-market) <br/>- [ios-weather-forecast](https://github.com/soo941226/ios-weather-forecast) <br/>- [ios-bank-manager](https://github.com/soo941226/ios-bank-manager) <br/>- [ios-exposition-universelle](https://github.com/soo941226/ios-exposition-universelle) <br/>- [ios-calculator-app](https://github.com/soo941226/ios-calculator-app) <br/>- [ios-juice-maker](https://github.com/soo941226/ios-juice-maker) <br/> |
-|contribute to|- [swfit-doc-kor](https://github.com/yagom-academy/swift-doc-kor)|
+|contribute to|- [swfit-doc-kor](https://github.com/yagom-academy/swift-doc-kor) <br> - [Design Pattern in Swift](https://yagom.net/courses/design-pattern-in-swift/)|
 
 <br>
 <br>
