@@ -5,7 +5,7 @@ Hi👋
 
 I'm an iOS developer!  I love code, especially Swift. It helps me to communicate with people and world!😄 I also like having time to watch comic or hear rock
 
-I like talking about ways how to improvement the U.X. and codes. And now, I'm interested in test☑︎. So I'm trying to write codes to testable.
+I like talking about ways how to improve the U.X. and codes. And now, I'm interested in test☑︎. So I'm trying to write codes to testable.
 
 <br>
 
