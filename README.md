@@ -20,7 +20,7 @@ I'm not good at English. so if you find some wrong words or awkward sentences, p
 |:---:|:---|
 | Career |- [yagom-academy](https://www.yagom-academy.kr/): 22.05.\~23.07. <br> - [viva-innovation](https://www.adoc.co.kr/): 23.10.\~|
 | Toy projects |- [VEM](https://github.com/soo941226/VEM) <br> - [CatchLunch](https://github.com/soo941226/CatchLunch)|
-| Contribute to |- [lottie-iOS](https://github.com/airbnb/lottie-ios) <br/> - [utmapp/UTM](https://github.com/utmapp/UTM) <br> - [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) <br> - [imgbase-inc/imgbase-kit](https://github.com/imgbase-inc/imgbase-kit) <br> - [yagom-academy/swfit-doc-kor](https://github.com/yagom-academy/swift-doc-kor) <br> - [Design Pattern in Swift](https://yagom.net/courses/design-pattern-in-swift/) |
+| Contribute to |- [airbnb/lottie-iOS](https://github.com/airbnb/lottie-ios) <br/> - [utmapp/UTM](https://github.com/utmapp/UTM) <br> - [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) <br> - [imgbase-inc/imgbase-kit](https://github.com/imgbase-inc/imgbase-kit) <br> - [yagom-academy/swfit-doc-kor](https://github.com/yagom-academy/swift-doc-kor) <br> - [Design Pattern in Swift](https://yagom.net/courses/design-pattern-in-swift/) |
 
 <br>
 <br>
